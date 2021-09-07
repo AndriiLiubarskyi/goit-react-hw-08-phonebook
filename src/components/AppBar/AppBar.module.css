@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(214, 214, 250);
+  height: 80px;
+  width: 100%;
+  border-bottom: 4mm ridge rgb(170, 50, 220, 0.6);
+}
